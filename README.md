@@ -1,2 +1,10 @@
 # hello-world
 my first java programm
+
+public class hello {
+   public static void main(String[] args) {
+	   System.out.println("hello world");
+ 
+   }
+
+}
