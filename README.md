@@ -1,10 +1,5 @@
-# hello-world
-my first java programm
-
-public class hello {
-   public static void main(String[] args) {
-	   System.out.println("hello world");
- 
-   }
-
+{
+	"name":["yash","kirti","vaibhav"],
+	"age":[18,27,15],
+	"gender":["m","f","m"]
 }
